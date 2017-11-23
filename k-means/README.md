@@ -1,5 +1,5 @@
 ### I'm Harry, here's how i implement K-Means clustering algorithm 
-#### This is a website that i have refered
+#### This is a website that i have  referenced! Check it out if ya need more details  
 - Article https://mubaris.com/2017-10-01/kmeans-clustering-in-python
 - Codes: https://github.com/mubaris/friendly-fortnight
 #### So let's get started! Yolo
