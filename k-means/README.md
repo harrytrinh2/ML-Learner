@@ -75,3 +75,6 @@ We often know the value of K. In that case we use the value of K. Else we use th
 <td><img src="https://www.analyticsvidhya.com/wp-content/uploads/2014/10/K-judgement.png" align="middle" style="width:660;height:400px;"/></td>
 
 <td><img src="https://www.analyticsvidhya.com/blog/wp-content/uploads/2014/10/K-judgement2.png" align="middle" /></td>
+## Author
+* **Trịnh Đình Phúc-1A ** - *Contact link* - [Phuc Trinh](https://www.facebook.com/HarryAndRap)
+* ![alt text](https://instagram.fdad2-1.fna.fbcdn.net/t51.2885-19/s150x150/18161730_1915204632049208_5721939814677217280_a.jpg "Logo Title Text ")
